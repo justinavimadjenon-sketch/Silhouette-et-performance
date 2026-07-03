@@ -1,0 +1,6 @@
+{
+  "name": "Silhouette & Performance - Coaching Perte de Poids Premium",
+  "description": "Une landing page interactive haut de gamme pour l'accompagnement métabolique sur-mesure d'entrepreneurs et de professionnels débordés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
